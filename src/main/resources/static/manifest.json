@@ -1,0 +1,37 @@
+{
+  "name": "Todo App",
+  "short_name": "Todo",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Todo App to manage tasks.",
+  "icons": [
+    {
+      "src": "/icons/icon_96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon_144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshots/todoapp.png",
+      "sizes": "374x324",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Todo app"
+    },
+    {
+      "src": "/screenshots/todoapp.png",
+      "sizes": "374x324",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Todo app"
+    }
+  ]
+}
